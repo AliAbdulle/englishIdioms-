@@ -7,6 +7,10 @@ namespace englishIdioms
     {
         static void Main(string[] args)
         {
+            /*
+            Create a new console application and paste the following code
+            into your Main() method.
+             */
             Dictionary<string, List<string>> idioms = new Dictionary<string, List<string>>();
             idioms.Add("Penny", new List<string> { "A", "penny", "for", "your", "thoughts" });
             idioms.Add("Injury", new List<string> { "Add", "insult", "to", "injury" });
@@ -18,6 +22,11 @@ namespace englishIdioms
             idioms.Add("Fences", new List<string> { "I'm", "on", "the", "fence", "about", "it" });
             idioms.Add("Sheep", new List<string> { "Pulled", "the", "wool", "over", "his", "eyes" });
             idioms.Add("Lucifer", new List<string> { "Speak", "of", "the", "devil" });
+            //Then write a foreach loop to produce the output in the image below.
+            foreach(KeyValuePair<string, List<string>>idiom in idioms) {
+                    string sentence = string.Join(" ", idiom.Value);
+                    Console.WriteLine($"{idiom.Key}: {sentence}");
+            }
         }
     }
 }

@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/bin/Debug/netcoreapp2.2/englishIdioms.deps.json
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/bin/Debug/netcoreapp2.2/englishIdioms.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/bin/Debug/netcoreapp2.2/englishIdioms.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/bin/Debug/netcoreapp2.2/englishIdioms.dll
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/bin/Debug/netcoreapp2.2/englishIdioms.pdb
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.dll
+/alidhobey/programming/nss/cohort31/Exercise/englishIdioms/obj/Debug/netcoreapp2.2/englishIdioms.pdb
